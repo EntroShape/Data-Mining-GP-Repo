@@ -1,4 +1,4 @@
-# Data-Mining-GP-Repo
+# Cityu-Data-Mining-GroupProject-Repo
 
 In this data mining group project, we performed the data mining task of walmart sales prediction on the Walmart.csv dataset from kaggle (https://www.kaggle.com/datasets/yasserh/walmart-dataset), here is the required public repository that store the source code, docs, and datasets used. All the code and experiment that we used are already stored in the file called "DataMiningV22(version_finale) (1)". Below is two notes for running our code.
 
